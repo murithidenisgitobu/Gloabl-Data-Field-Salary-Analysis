@@ -2,6 +2,7 @@
 Gloabl Data Field Salary Analysis (2020 - 2024)
 # About Dataset
 This dataset contains the updated 2024 data from the Jobs and Salaries in Data Science dataset. The information is sourced from ai-jobs.net/salaries/2024/.
+link kaggle: https://www.kaggle.com/datasets/murilozangari/jobs-and-salaries-in-data-field-2024
 
 # About Dataset
 
